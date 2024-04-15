@@ -1,0 +1,8 @@
+{
+	"verify_login_using_valid_username_and_password": [
+		{
+			"userName": "standard_user",
+			"password": "secret_sauce"
+		}
+	]
+}
